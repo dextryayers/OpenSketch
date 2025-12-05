@@ -114,7 +114,7 @@ Follow these steps to get OpenSketch running on your local machine.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/dextryayers/OpenSketch.git
-cd opensketch
+cd OpenSketch
 ```
 
 ### 2. Install Dependencies
