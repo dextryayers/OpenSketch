@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>🎨 OpenSketch</h1>
+  <h1>🎨 OpenSketch V.1.0</h1>
   
   <p>
     <strong>The Collaborative, Infinite Canvas Whiteboard for the Modern Web.</strong>
@@ -113,7 +113,7 @@ Follow these steps to get OpenSketch running on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/haniipp/opensketch.git
+git clone https://github.com/dextryayers/OpenSketch.git
 cd opensketch
 ```
 
