@@ -91,7 +91,7 @@ The easiest way to get the entire stack (Web, Server, Redis) running instantly.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/opensketch.git
+git clone https://github.com/dextryayers/OpenSketch.git
 
 # 2. Start the services
 docker-compose up --build
