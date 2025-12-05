@@ -218,7 +218,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
   <p>
-    Copyright © 2024 <a href="https://haniipp.space" target="_blank"><strong>haniipp.space</strong></a>.<br />
+    Copyright © 2025 <a href="https://haniipp.space" target="_blank"><strong>haniipp.space</strong></a>.<br />
     All rights reserved.
   </p>
   <p>
