@@ -1,0 +1,7 @@
+{
+  "name": "OpenSketch (Excalidraw Clone)",
+  "description": "A high-performance, collaborative whiteboard application featuring hand-drawn styles, real-time syncing, and infinite canvas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
