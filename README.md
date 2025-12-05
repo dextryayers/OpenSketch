@@ -1,4 +1,4 @@
-# 🎨 OpenSketch
+# 🎨 OpenSketch V.1.0.1
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
